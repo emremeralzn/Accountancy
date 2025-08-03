@@ -1,0 +1,6 @@
+@Muhasebe.API_HostAddress = http://localhost:5028
+
+GET {{Muhasebe.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
